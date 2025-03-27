@@ -12,5 +12,8 @@ En este repositorio se encutran los trabajos prácticos de la materia Algoritmos
  │   ├── infotp2.md                       # Documentación TP 2   
  ├── README.md                            # Documentación del proyecto  
 
+- [Solucion Especificación y WP](https://github.com/Heizhem/TPs-AlgoII/blob/main/TP1-EspecificaciónyWP/RTP_1_Grupo_pip_install.pdf)
+- [Solucion Estructura y TAD](https://github.com/Heizhem/TPs-AlgoII/tree/main/TP2-Diseño%20e%20implementación%20de%20estructuras/estudiantes/src/main/java/aed)
+
 
 
